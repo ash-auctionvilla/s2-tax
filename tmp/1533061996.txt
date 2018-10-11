@@ -1,0 +1,1 @@
+a:5:{s:14:"payment_notify";s:1:"1";s:5:"state";s:0:"";s:17:"billing_tax_state";s:6:"kstate";s:15:"billing_tax_zip";s:5:"15780";s:19:"billing_tax_country";s:2:"UA";}
